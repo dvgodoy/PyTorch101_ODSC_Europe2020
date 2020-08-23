@@ -12,13 +12,13 @@ If you'd rather use a local environment, please follow these steps (assuming you
 
 - Install GraphViz: https://www.graphviz.org/
 
-- Create a conda environment: `conda create -n pytorch101 pip conda python==3.6.8`
+- Create a conda environment: `conda create -n pytorch101 pip conda python==3.7.5`
 
 - Activate the conda environment: `conda activate pytorch101`
 
 - Install PyTorch: https://pytorch.org/get-started/locally/
 
-- Install other packages: `conda install scikit-learn==0.21.3 matplotlib==3.1.1 jupyter==1.0.0 ipywidgets==7.5.1 plotly==4.1.1 -c anaconda`
+- Install other packages: `conda install scikit-learn==0.21.3 matplotlib==3.1.1 jupyter==1.0.0 ipywidgets==7.5.1 plotly==4.4.1 -c anaconda`
 
 - Install torchviz: `pip install torchviz`
 
